@@ -167,8 +167,8 @@ PyQt5 desktop app for elderly care — medication reminders, emergency contacts,
 ## 📊 Live Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishna032003&show_icons=true&hide_border=true&bg_color=120458&title_color=C084FC&text_color=D8B4FE&icon_color=C084FC&ring_color=C084FC" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna032003&layout=compact&hide_border=true&bg_color=120458&title_color=C084FC&text_color=D8B4FE" height="175"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=krishna032003&show_icons=true&hide_border=true&bg_color=120458&title_color=C084FC&text_color=D8B4FE&icon_color=C084FC&ring_color=C084FC" height="175"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna032003&layout=compact&hide_border=true&bg_color=120458&title_color=C084FC&text_color=D8B4FE" height="175"/>
 </div>
 
 <div align="center">
